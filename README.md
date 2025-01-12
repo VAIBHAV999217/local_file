@@ -12,3 +12,4 @@ Install leafpad editor for C programming using command
 
 
 ![something](https://github.com/user-attachments/assets/69a4702e-69e4-494d-8bb0-4a9f347eee5b)
+![somethings](https://github.com/VAIBHAV999217/local_file/blob/bf7d67e68f0899bce63b8a1afe0072eaeb728adc/architecture)
