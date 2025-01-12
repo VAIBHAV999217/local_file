@@ -9,5 +9,6 @@ The board is powered by CH32V003F4U6 chip with a 32-bit RISC-V core based on the
 C-Based Lab
  ----
 Install leafpad editor for C programming using command
-Screenshot 2024-09-20 175105.png
-https://github.com/VAIBHAV999217/local_file/blob/c04a086a837455ff75622a3b74b6f9cda4d24116/Screenshot%202024-09-20%20175105.png
+
+
+![something](https://github.com/user-attachments/assets/69a4702e-69e4-494d-8bb0-4a9f347eee5b)
